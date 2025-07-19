@@ -1,0 +1,44 @@
+{
+    "india": {
+        "currency": "INR",
+        "tcs_threshold": 7000,
+        "withholding_tax": 10,
+        "fx_required": false,
+        "gold_price_per_gram": 5900
+    },
+    "uae": {
+        "currency": "AED",
+        "tcs_threshold": 0,
+        "withholding_tax": 0,
+        "fx_required": false,
+        "gold_price_per_gram": 250
+    },
+    "usa": {
+        "currency": "USD",
+        "tcs_threshold": 10000,
+        "withholding_tax": 30,
+        "fx_required": true,
+        "gold_price_per_gram": 70
+    },
+    "brazil": {
+        "currency": "BRL",
+        "tcs_threshold": 4000,
+        "withholding_tax": 15,
+        "fx_required": true,
+        "gold_price_per_gram": 350
+    },
+    "nigeria": {
+        "currency": "NGN",
+        "tcs_threshold": 500000,
+        "withholding_tax": 20,
+        "fx_required": true,
+        "gold_price_per_gram": 110000
+    },
+    "singapore": {
+        "currency": "SGD",
+        "tcs_threshold": 0,
+        "withholding_tax": 0,
+        "fx_required": false,
+        "gold_price_per_gram": 90
+    }
+}

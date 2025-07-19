@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Brinks Global Vault \u2013 Singapore",
+        "countries": [
+            "india",
+            "uae",
+            "singapore",
+            "nigeria"
+        ]
+    },
+    {
+        "name": "Loomis Treasury Vault \u2013 Switzerland",
+        "countries": [
+            "usa",
+            "brazil",
+            "india"
+        ]
+    },
+    {
+        "name": "Malca-Amit Vault \u2013 Dubai",
+        "countries": [
+            "uae",
+            "singapore",
+            "india"
+        ]
+    }
+]
